@@ -1,0 +1,45 @@
+body { 
+     background: #A682FF;
+font-family: 'Kurale', serif;
+font-family: 'Pacifico', cursive;
+font-family: 'Shadows Into Light Two', cursive;
+font-family: 'Amatic SC', cursive;
+font-family: 'Lobster Two', cursive;
+
+
+
+
+}
+
+
+h1 {
+  color: yellow;
+}
+
+
+
+.big {
+
+width: 450px;
+height: 600px;
+
+}
+
+.ig {
+ display: block;
+ height:90px;
+ width: 70px;
+
+}
+
+.gif { 
+ height: 100px;
+ width: 90;
+
+}
+
+
+.cardi {
+  height: 300px;
+  width: 200px;
+}
